@@ -1,4 +1,6 @@
 hello world!
 new text
 wahaha
+Let's play a game!
+blablabla
 2333
